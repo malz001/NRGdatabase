@@ -1,6 +1,6 @@
 CREATE DATABASE MyDB;
 USE MyDB;
-CREATE TABLE Employee-Contact-Info
+CREATE TABLE Employee_Contact_Info
 (
 	id INT AUTO_INCREMENT NOT NULL,
 	Employee-Number VARCHAR(10),
